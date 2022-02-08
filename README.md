@@ -2,4 +2,4 @@
 
 
 ## COP regression
-http://colab.research.google.com/github/christlc/analytisnotebook/blob/master
+http://colab.research.google.com/github/christlc/analysisnotebook/blob/master/COP regresion.ipynb
